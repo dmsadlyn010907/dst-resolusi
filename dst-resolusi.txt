@@ -1,0 +1,7 @@
+*Php
+-laravel
+*Javascript
+-react
+*Css
+*Html 
+*Python
